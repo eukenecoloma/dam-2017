@@ -1,0 +1,50 @@
+<html>
+	<thead><strong>Comparativa de reproductores MP3</strong>
+<table>
+<tr>
+	<td colspan="6"><strong>tabla comparativa de las caracteristicas tecnicas de los reproductores MP3</strong></td>
+</tr>
+<tr>
+	<td></td>
+	<td colspan="3"><strong>MP mini</strong><img src="./imagen2.png"/></td>
+	<td colspan="2"><strong>MP3 grande</strong><img src="./imagen3.jpg"/></td>
+</tr>
+<tr>
+	<td><strong>Capacidad de almacenaminto</strong></td>
+	<td>4GB(1000canciones)</td>
+	<td>8GB(2000canciones)</td>
+	<td>16GB(4000canciones)</td>
+	<td>30GB(7500canciones)</td>
+	<td>80GB(20000canciones)</td>
+</tr>
+<tr>
+	<td><strong>Colores</strong></td>
+	<td><img src="./punto1.jpg"/></td>
+	<td><img src="./punto1.jpg"/></td>
+	<td><img src="./punto2.jpg"/></td>
+	<td colspan="2"><img src="./punto2.jpg"/></td>
+</tr>
+<tr>
+	<td><strong>Pantalla</strong></td>
+	<td colspan="3">LCD de 3cm (diagonal) con retroiluminación</td>
+	<td colspan="2">LCD de 6cm (diagonal) con retroiluminación</td>
+</tr>
+<tr>
+	<td rowspan="2"><strong>Tiempo de carga</strong></td>
+	<td colspan="3"rowspan="2">Unas 3 horas</td>
+	<td colspan="2">Unas 4 horas</td>
+	<td colspan="2">Unas 2 horas para alcanzar el 80% de la capacidad</td>
+</tr>
+<tr>
+	<td><strong>Precio</strong></td>
+	<td>100€</td>
+	<td>200€</td>
+	<td>300€</td>
+	<td>400€</td>
+	<td>500€</td>
+</tr>
+</table>
+	
+
+
+			
